@@ -38,8 +38,8 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ### plt.plot(x,ypred,color='Blue')
 ### plt.show()
 ## Output
-<img width="726" height="887" alt="image" src="https://github.com/user-attachments/assets/15c7fb1c-6713-47cf-a4d4-f66c91a9ed3b" />
-
+<img width="756" height="861" alt="WhatsApp Image 2026-11-25 at 4 28 37 PM" src="https://github.com/user-attachments/assets/fb45a3f0-b7b0-4094-9fc4-ae66d61c532a" />
+<img width="932" height="658" alt="WhatsApp Image 2026-11-25 at 4 27 37 PM" src="https://github.com/user-attachments/assets/57d3b2a9-727e-46ea-b592-a4800075d083" />
 
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
